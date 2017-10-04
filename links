@@ -1,0 +1,33 @@
+1. http://addphp.ru/materials/base/ - что то вроде аналога документации - но описано очень простым языком, 
+по полочкам, начиная с базовых элементов
+
+2. https://1cloud.ru/help/windows/ustanovka-nastroika-wampserver - установка и настройка WAMP Server - 
+моя личная рекомендация. содержит в себе все необходимое, в качестве админки - PhpMyAdmin - интуитивно понятно и просто
+
+3. http://getjump.me/ru-php-the-right-way/ - еще один интересный сборник - в некоторых моментах полезно 
+тем, что описаны разные фишки, про которые не упоминается/трудно находится в родной документации. тоже своего рода Руководство
+
+4. http://www.php.su/articles/?cat=examples&page=070 - сессии в PHP
+
+5.1. http://php.net/manual/ru/features.http-auth.php 
+5.2. http://php.net/manual/ru/book.session.php 
+3.3. http://php.net/manual/ru/features.cookies.php - три ссылки про авторизацию и аутентификацию
+
+6. http://cccp-blog.com/koding/kak-peredat-peremennuyu-php-v-html-i-obratno - самый самый примитив про 
+переменные в html - для очень начинающих! Как передать переменную PHP в HTML и обратно?
+
+7. https://habrahabr.ru/post/23619/ - полезные рассуждения про применение ООП в PHP
+
+8. http://laracast.com - наиболее релевантная и полезная информация по Laravel, правда, на английском языке. 
+однако - есть прекрасная документация по Laravel, в которой есть переводы документаций по всем версиям 
+Laravel - https://laravel.ru/
+ 
+9. https://habrahabr.ru/post/87119/ - некоторая полезная структуризация знаний про объектно-ориентированное 
+программирование в целом
+ 
+10. https://github.com/squizlabs/PHP_CodeSniffer - это утилита для улучшения кода PHP
+
+11. https://svyatoslav.biz/misc/psr_translation/ - информация о стандартах работы с кодом - здесь собраны 
+стандарты PSR с переводом
+
+12. https://habrahabr.ru/post/140827/ - принципы объектно-ориентированного приграммирования!
